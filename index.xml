@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slowmega</title>
-    <link>https://tohst.github.io/hugotest/</link>
+    <link>https://tohst.github.io/hugotesto/</link>
     <description>Recent content on Slowmega</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tohst.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tohst.github.io/hugotesto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jesse N00b</title>
-      <link>https://tohst.github.io/hugotest/career/</link>
+      <link>https://tohst.github.io/hugotesto/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tohst.github.io/hugotest/career/</guid>
+      <guid>https://tohst.github.io/hugotesto/career/</guid>
       <description></description>
     </item>
     
